@@ -1,13 +1,13 @@
 * {
-background-color:rgb(255, 193, 252);
-color: rgb(119, 27, 205);
+background-color:rgb(194, 193, 255);
+color: rgb(46, 86, 167);
 font-family:'Times New Roman', Times, serif;
 }
 
 h1 {
     text-align: center;
    text-decoration: underline;
-   text-decoration-color: rgb(199, 140, 255);
+   text-decoration-color: rgb(0, 183, 207);
    text-decoration-thickness: 2px;
 }
 ul {
@@ -15,4 +15,9 @@ ul {
     text-align: left;
     position: absolute;
     left: 130px;
+    list-style-type: circle;
+}
+
+a {
+    text-decoration-color: rgb(0, 183, 207)
 }
