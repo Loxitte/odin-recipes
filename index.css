@@ -1,13 +1,13 @@
 * {
-background-color:rgb(194, 193, 255);
-color: rgb(46, 86, 167);
+background-color:rgb(219, 177, 165);
+color: rgb(123, 78, 41);
 font-family:'Times New Roman', Times, serif;
 }
 
 h1 {
     text-align: center;
    text-decoration: underline;
-   text-decoration-color: rgb(0, 183, 207);
+   text-decoration-color: rgb(128, 8, 8);
    text-decoration-thickness: 2px;
 }
 ul {
@@ -19,5 +19,5 @@ ul {
 }
 
 a {
-    text-decoration-color: rgb(0, 183, 207)
+    text-decoration-color: rgb(128, 8, 8)
 }
